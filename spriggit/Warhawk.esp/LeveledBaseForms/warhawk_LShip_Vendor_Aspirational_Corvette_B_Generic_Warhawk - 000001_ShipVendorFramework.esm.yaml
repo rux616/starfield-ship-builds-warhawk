@@ -1,0 +1,25 @@
+FormKey: 000001:ShipVendorFramework.esm
+EditorID: warhawk_LShip_Vendor_Aspirational_Corvette_B_Generic_Warhawk
+FormVersion: 559
+ODTY: 0
+MaxCount: 0
+Flags:
+- CalculateForEachItemInCount
+- 0x200
+Entries:
+- Level: 1
+  Unused: 19903
+  Reference: 000815:ShipVendorFramework.esm
+  Count: 1
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    CompareOperator: GreaterThanOrEqualTo
+    Unknown1: 0x8FF173
+    Unknown2: 16610
+    Data:
+      MutagenObjectType: GetLevelConditionData
+      RunOnType: Reference
+      Reference: 000014:Starfield.esm
+    ComparisonValue: 50
+Model:
+  FLLD: 0x01000000
