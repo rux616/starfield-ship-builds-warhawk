@@ -1,0 +1,99 @@
+[size=5][b]Warhawk[/b][/size]
+by rux616
+
+Version: 1.0.0
+
+[size=4][b][u]Table Of Contents:[/u][/b][/size]
+- Warhawk
+    - Table Of Contents
+- Overview
+    - Summary
+    - Compatibility
+    - Known Issues
+- Installation
+    - Requirements
+    - Recommendations
+    - Upgrading
+    - Mod Manager
+    - Manual
+    - Archive Invalidation
+- License
+- Credits and Acknowledgements
+- Credits
+
+
+[size=5][b]Overview[/b][/size]
+
+[size=4][b][u]Summary:[/u][/b][/size]
+(The Warhawk. Small. Fast. Deadly.)
+
+I wanted a ship that wasn't labyrinthine on the inside but still had room for crew, could survive combat, and looked good. Result? The Warhawk. This ship is relatively small at only ~45 meters long (the Frontier is ~39 meters), and ~40 meters wide, but still manages to have a crew berthing area, a captain's quarters, a workshop, a small shielded cargo hold, and a jammer.
+
+The Warhawk is a class B ship with top of the line components, including a Dogstar Mag Intertial 104DS reactor, a Deep Core Aurora 13G grav jump drive, and Reladyne White Dwarf 3015 engines. Weaponry includes 2 full compliments of particle weapons, and 1 full compliment of EM weapons to disable hostile ships if needed.
+
+Available at New Atlantis Ship Services once the inventory refreshes after you've hit level 50.
+
+[size=4][b][u]Compatibility:[/u][/b][/size]
+Everything
+
+[size=4][b][u]Known Issues:[/u][/b][/size]
+None
+
+
+[size=5][b]Installation[/b][/size]
+
+[size=4][b][u]Requirements:[/u][/b][/size]
+- [url=https://www.nexusmods.com/starfield/mods/10057]Ship Vendor Framework[/url]
+
+[size=4][b][u]Recommendations:[/u][/b][/size]
+None.
+
+[size=4][b][u]Upgrading:[/u][/b][/size]
+When upgrading non-major versions (for example v2.something to v2.something-else), you don't need to do anything except replace the installed mod files.
+
+When upgrading major versions (for example v1.whatever to v2.whatever), you need to do a clean install:
+- Open the game and load your latest save
+- Save your game, then quit
+- Uninstall the previous version of the plugin and all its files
+- Open the game and load your last save
+- You will see a warning about missing the plugin you just uninstalled, choose to continue
+- Save your game again, then quit
+- Install the new version of the plugin
+
+[size=4][b][u]Mod Manager:[/u][/b][/size]
+Download and install the archive with either [url=https://github.com/ModOrganizer2/modorganizer/releases]Mod Organizer 2[/url] (version 2.5.0 or later) or [url=https://www.nexusmods.com/site/mods/1]Vortex[/url]. I personally recommend Mod Organizer 2 (with the optional [url=https://kezyma.github.io/?p=rootbuilder]Root Builder[/url] plugin to use with SFSE or any other mod that requires files be put directly in the game's installation folder).
+
+[size=4][b][u]Manual:[/u][/b][/size]
+Unsupported.
+
+[size=4][b][u]Archive Invalidation:[/u][/b][/size]
+Make sure your [font=Courier New][color=#b2b2b2]StarfieldCustom.ini[/color][/font] file in the "Documents\My Games\Starfield" folder (or your profile folder if using a mod manager and profiles) contains the following:
+
+    [font=Courier New][color=#b2b2b2][Archive][/color][/font]
+    [font=Courier New][color=#b2b2b2]bInvalidateOlderFiles=1[/color][/font]
+    [font=Courier New][color=#b2b2b2]sResourceDataDirsFinal=[/color][/font]
+
+
+[size=5][b]License[/b][/size]
+- All code files are copyright 2024 Dan Cassidy, and are licensed under the [url=https://www.gnu.org/licenses/gpl-3.0.en.html]GPL v3.0 or later[/url].
+- All non-code files are copyright 2024 Dan Cassidy, and are licensed under the [url=https://creativecommons.org/licenses/by-nc-sa/4.0/]CC BY-NC-SA 4.0[/url] license.
+
+
+[size=5][b]Credits and Acknowledgements[/b][/size]
+ElminsterAU: For xEdit and BSArch
+Mod Organizer 2 team: For Mod Organizer 2
+Nexus Mods: For mod hosting and for the Vortex Mod Manager
+Noggog: For Spriggit
+
+
+[size=5][b]Credits[/b][/size]
+If you find a bug or have a question about the mod, please post it on the [url=https://www.nexusmods.com/starfield/mods/10693]mod page at Nexus Mods[/url], or in the [url=https://github.com/rux616/starfield-ship-builds-warhawk]GitHub project[/url].
+
+If you need to contact me personally, I can be reached through one of the following means:
+- [b]Nexus Mods[/b]: [url=https://www.nexusmods.com/users/124191]rux616[/url] (Send a message via the "CONTACT" button.)
+- [b]Email[/b]: rux616-at-pm-dot-me (replace [font=Courier New][color=#b2b2b2]-at-[/color][/font] with [font=Courier New][color=#b2b2b2]@[/color][/font] and [font=Courier New][color=#b2b2b2]-dot-[/color][/font] with [font=Courier New][color=#b2b2b2].[/color][/font])
+- [b]Discord[/b]: rux616 (user ID 234489279991119873) - make sure to "@" me
+    - [url=https://discord.gg/livelymods]Lively's Modding Hub[/url]
+    - [url=https://discord.gg/nexusmods]Nexus Mods[/url]
+    - [url=https://discord.gg/pF9U5FmD6w]Collective Modding[/url] ("🔧-chaotic-cognitions" channel)
+    - [url=https://discord.gg/6R4Yq5KjW2]Starfield Modding[/url]
