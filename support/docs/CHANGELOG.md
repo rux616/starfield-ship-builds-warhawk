@@ -17,7 +17,7 @@ v1.1.0
 ------
 - Changed leveled base form to use built-in level condition instead of separate condition
 - Added load order help section to the README
-- Added some more detail to the ship's compliment of weaponry in the README
+- Added some more detail about the ship's compliment of weaponry to the README
 
 ([TOC](#table-of-contents))
 
