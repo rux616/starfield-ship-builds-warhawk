@@ -10,7 +10,7 @@ ModHeader:
     The Warhawk. Small. Fast. Deadly.
 
 
-    Version: 1.0.0
+    Version: 1.1.0
   MasterReferences:
   - Master: Starfield.esm
   - Master: ShipVendorFramework.esm
