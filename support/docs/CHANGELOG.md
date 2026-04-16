@@ -6,12 +6,20 @@ Table Of Contents
 - [Warhawk](#warhawk)
     - [Table Of Contents](#table-of-contents)
 - [Changelog](#changelog)
+    - [v1.2.0](#v120)
     - [v1.1.0](#v110)
     - [v1.0.0](#v100)
 
 
 Changelog
 =========
+
+v1.2.0
+------
+- Version bump to allow publishing for PlayStation on Creations
+- Re-saved and re-exported plugin in the latest version of Creation Kit (v1.16.236)
+
+([TOC](#table-of-contents))
 
 v1.1.0
 ------

@@ -1,4 +1,4 @@
-Version: 1.1.0
+Version: 1.2.0
 
 Summary
 -----
@@ -35,13 +35,15 @@ Noggog: For Spriggit
 
 Credits
 -----
-If you find a bug or have a question about the mod, please post it on the mod page at Nexus Mods (https://www.nexusmods.com/starfield/mods/10693), or in the GitHub project (https://github.com/rux616/starfield-ship-builds-warhawk).
+If you find a bug or have a question about the mod, please post it on the mod page at Nexus Mods (https://www.nexusmods.com/starfield/mods/10693), the GitHub project (https://github.com/rux616/starfield-ship-builds-warhawk), or on Reddit in r/StarfieldMods (https://www.reddit.com/r/starfieldmods/) (make sure to tag me: u/rux616).
 
 If you need to contact me personally, I can be reached through one of the following means:
-- **Nexus Mods**: rux616(https://www.nexusmods.com/users/124191) (Send a message via the "CONTACT" button.)
+- **Nexus Mods**: rux616 (https://www.nexusmods.com/users/124191) (Click the "Message" button.)
 - **Email**: rux616-at-pm-dot-me (replace `-at-` with `@` and `-dot-` with `.`)
+- **Reddit**: u/rux616
 - **Discord**: rux616 (user ID 234489279991119873) - make sure to "@" me
     - Lively's Modding Hub (https://discord.gg/livelymods)
     - Nexus Mods (https://discord.gg/nexusmods)
     - Collective Modding (https://discord.gg/pF9U5FmD6w) ("🔧-chaotic-cognitions" channel)
+    - Starfield - Ship Distribution (https://discord.gg/wuvaYAsuAc)
     - Starfield Modding (https://discord.gg/6R4Yq5KjW2)
