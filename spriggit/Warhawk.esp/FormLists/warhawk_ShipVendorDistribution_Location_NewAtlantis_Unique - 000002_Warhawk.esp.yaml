@@ -1,0 +1,6 @@
+FormKey: 000002:Warhawk.esp
+EditorID: warhawk_ShipVendorDistribution_Location_NewAtlantis_Unique
+FormVersion: 559
+Items:
+- 000001:Warhawk.esp
+AddToList: 000822:ShipVendorFramework.esm
