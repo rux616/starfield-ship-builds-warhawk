@@ -1,0 +1,13 @@
+# exclude MO2's meta.ini file
+meta.ini
+# exclude log files
+*.log
+# exclude papyrus assembly/compiled files
+data*/scripts/**/*.pas
+data*/scripts/**/*.pex
+# ignore GTEMP.pas file in the .vscode directory
+.vscode/GTEMP.pas
+# exclude BA2 archives
+*.ba2
+# exclude .spriggit file as it's dynamically generated for this project
+spriggit/.spriggit

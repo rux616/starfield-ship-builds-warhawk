@@ -1,7 +1,6 @@
-FormKey: 000001:ShipVendorFramework.esm
+FormKey: 000001:Warhawk.esm
 EditorID: warhawk_LShip_Vendor_Aspirational_Corvette_B_Generic_Warhawk
 FormVersion: 559
-ODTY: 0
 MaxCount: 0
 Flags:
 - CalculateForEachItemInCount
@@ -9,7 +8,7 @@ Flags:
 Entries:
 - Level: 50
   Unused: 19903
-  Reference: 000815:ShipVendorFramework.esm
+  Reference: 000815:Warhawk.esm
   Count: 1
 Model:
-  FLLD: 0x01000000
+  LightLayer: 1

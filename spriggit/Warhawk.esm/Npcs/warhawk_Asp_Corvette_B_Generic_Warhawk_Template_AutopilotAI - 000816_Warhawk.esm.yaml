@@ -1,10 +1,11 @@
-FormKey: 000816:ShipVendorFramework.esm
-MajorRecordFlagsRaw: 4194304
+FormKey: 000816:Warhawk.esm
+IsCompressed: True
+MajorRecordFlagsRaw: 4456448
 EditorID: warhawk_Asp_Corvette_B_Generic_Warhawk_Template_AutopilotAI
 FormVersion: 559
 StarfieldMajorRecordFlags:
+- Compressed
 - 0x400000
-ODTY: 0
 Flags:
 - AutoCalcStats
 XpValueOffset: 130
@@ -64,4 +65,5 @@ BodyMorphRegionValues:
 SkinToneIndex: 0
 Pronoun: Unspecified
 MajorFlags:
+- 0x40000
 - 0x400000
