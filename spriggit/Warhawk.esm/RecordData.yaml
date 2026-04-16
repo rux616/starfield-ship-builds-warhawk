@@ -7,15 +7,16 @@ ModHeader:
   Flags:
   - Master
   - Light
-  FormVersion: 559
+  FormVersion: 582
   Author: rux616
   Description: >-
     The Warhawk. Small. Fast. Deadly.
 
 
-    Version: 1.1.0
+    Version: 1.2.0
   MasterReferences:
   - Master: Starfield.esm
+  - Master: sfbgs00d.esm
   - Master: ShipVendorFramework.esm
   Branch: Main
   InteriorCellCount: 0

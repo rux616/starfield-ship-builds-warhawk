@@ -1,13 +1,13 @@
 FormKey: 000001:Warhawk.esp
 EditorID: warhawk_LShip_Vendor_Aspirational_Corvette_B_Generic_Warhawk
-FormVersion: 559
+FormVersion: 582
 MaxCount: 0
 Flags:
 - CalculateForEachItemInCount
 - 0x200
 Entries:
 - Level: 50
-  Unused: 19903
+  Unused: 19936
   Reference: 000815:Warhawk.esp
   Count: 1
 Model:
